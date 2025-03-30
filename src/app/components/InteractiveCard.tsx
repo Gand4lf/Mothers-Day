@@ -11,7 +11,7 @@ export default function InteractiveCard() {
                             Happy Mother&apos;s Day
                         </h1>
                         <p className="text-pink-700 italic text-lg font-medium">
-                            To the most amazing mom in the world
+                            To the most amazing mum in the world
                         </p>
                     </div>
                     <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0zNiAxOGMtNi42MjcgMC0xMiA1LjM3My0xMiAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMi01LjM3My0xMi0xMi0xMnptMCAxOGMtMy4zMTQgMC02LTIuNjg2LTYtNnMyLjY4Ni02IDYtNiA2IDIuNjg2IDYgNi0yLjY4NiA2LTYgNnoiIGZpbGw9InJnYmEoMjU1LCAxOTIsIDIwMywgMC4yKSIvPjwvZz48L3N2Zz4=')] opacity-50"></div>
@@ -39,12 +39,11 @@ export default function InteractiveCard() {
                     {/* Message */}
                     <div className="text-center space-y-6 max-w-xl mx-auto">
                         <p className="text-2xl text-gray-700 font-medium leading-relaxed">
-                            Dear Mom,
+                            Dear Mum,
                         </p>
                         <p className="text-gray-600 text-lg leading-loose">
                             Thank you for your endless love, patience, and support.
-                            You make every day brighter with your presence.
-                            Your strength and kindness inspire me more than you know.
+                            You make every day brighter and your strength inspires me every day.
                         </p>
                         <p className="text-xl text-pink-600 font-semibold mt-6">
                             With all my love ❤️
